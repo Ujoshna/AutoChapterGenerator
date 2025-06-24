@@ -1,0 +1,4 @@
+[
+  {"title": "Opening Slide", "start_time": "00:00:00", "end_time": "00:02:00", "description": "Intro to topic"},
+  {"title": "Core Concepts", "start_time": "00:02:01", "end_time": "00:10:00", "description": "Deep dive"}
+]

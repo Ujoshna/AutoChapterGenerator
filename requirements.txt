@@ -1,0 +1,6 @@
+openai-whisper
+moviepy
+transformers
+nltk
+pysrt
+scenedetect
